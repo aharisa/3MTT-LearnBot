@@ -1,0 +1,29 @@
+{
+    "Python": [
+      {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["function", "def", "func"],
+        "answer": "def"
+      },
+      {
+        "question": "What is the output of print(2 ** 3)?",
+        "options": ["6", "8", "9"],
+        "answer": "8"
+      }
+    ],
+    "HTML": [
+      {
+        "question": "What does HTML stand for?",
+        "options": ["HyperText Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language"],
+        "answer": "HyperText Markup Language"
+      }
+    ],
+    "Linux": [
+      {
+        "question": "Which command lists files in Linux?",
+        "options": ["ls", "dir", "list"],
+        "answer": "ls"
+      }
+    ]
+  }
+  
